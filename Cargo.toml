@@ -1,0 +1,8 @@
+[package]
+name = "rust-control"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+automatica = "1.1.0"
+gnuplot = "0.0.37"
